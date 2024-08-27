@@ -1,1 +1,1 @@
-# StockWise: Predictive Analytics for Market Trends
+# Supermarket-sales-prediction
